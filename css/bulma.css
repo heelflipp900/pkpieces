@@ -6471,7 +6471,7 @@ a.list-item {
 }
 
 .navbar.is-success {
-  background-color: #23d160;
+  background-color: #b5dfd6;
   color: #fff;
 }
 
@@ -6483,7 +6483,7 @@ a.list-item {
 .navbar.is-success .navbar-brand > a.navbar-item:hover, .navbar.is-success .navbar-brand > a.navbar-item.is-active,
 .navbar.is-success .navbar-brand .navbar-link:hover,
 .navbar.is-success .navbar-brand .navbar-link.is-active {
-  background-color: #20bc56;
+  background-color: #7dc7b7;
   color: #fff;
 }
 
@@ -6509,7 +6509,7 @@ a.list-item {
   .navbar.is-success .navbar-end > a.navbar-item.is-active,
   .navbar.is-success .navbar-end .navbar-link:hover,
   .navbar.is-success .navbar-end .navbar-link.is-active {
-    background-color: #20bc56;
+    background-color: #7dc7b7;
     color: #fff;
   }
   .navbar.is-success .navbar-start .navbar-link::after,
@@ -6518,11 +6518,11 @@ a.list-item {
   }
   .navbar.is-success .navbar-item.has-dropdown:hover .navbar-link,
   .navbar.is-success .navbar-item.has-dropdown.is-active .navbar-link {
-    background-color: #20bc56;
+    background-color: #7dc7b7;
     color: #fff;
   }
   .navbar.is-success .navbar-dropdown a.navbar-item.is-active {
-    background-color: #23d160;
+    background-color: #b5dfd6;
     color: #fff;
   }
 }
