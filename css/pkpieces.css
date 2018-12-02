@@ -1,0 +1,12 @@
+.imgbanner
+{
+	width:25%;
+}
+
+@media screen and (max-width:1087px)
+{
+	.imgbanner
+	{
+		width:40%; 
+	}
+}
