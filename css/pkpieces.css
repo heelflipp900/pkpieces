@@ -7,6 +7,12 @@
 {
 	.imgbanner
 	{
-		width:50%; 
+		width:50%;
 	}
+}
+@media(max-width: 767px) {
+  .cust-col {
+    flex-direction: column-reverse;
+    display: flex;
+  }
 }
