@@ -17,7 +17,9 @@
   }
 }
 
-.footer
+.footer.level
 {
 	background-color: #b5dfd6;
+	padding: 1rem;
+	margin:0;
 }
