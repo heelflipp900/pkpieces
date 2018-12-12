@@ -35,3 +35,14 @@
 {
 	flex:1 ;
 }
+
+.card a
+{
+	color:#b5dfd6;
+}
+
+.card figure
+{
+	margin-left: 0;
+	margin-right: 0;
+}
